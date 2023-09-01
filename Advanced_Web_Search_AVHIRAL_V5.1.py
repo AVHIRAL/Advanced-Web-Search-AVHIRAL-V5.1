@@ -18,7 +18,7 @@ class AdvancedSearchApp:
         self.label = tk.Label(self.top_frame, text="Entrez un mot-clé:")
         self.label.pack(side='left')
 
-        self.entry = tk.Entry(self.top_frame)
+        self.entry = tk.Entry(self.top_frame, width=70)
         self.entry.pack(side='left', padx=10)
 
         self.button = tk.Button(self.top_frame, text="Rechercher", command=self.search)
