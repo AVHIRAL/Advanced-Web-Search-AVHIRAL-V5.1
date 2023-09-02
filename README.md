@@ -10,7 +10,7 @@ Caractéristiques principales :
     Clignotement d'un label pour indiquer que la recherche est en cours.
     Effacez le contenu pour une nouvelle recherche avec un bouton "Clear".
 
-Dépendances :
+Dépendances : pip install 
 
     tkinter
     webbrowser
@@ -19,6 +19,8 @@ Dépendances :
     winsound
     requests
     BeautifulSoup
+    google
 
 Comment exécuter :
-Clonez le répertoire et exécutez nom_du_fichier.py
+Clonez le répertoire et exécutez en console : python Advanced_Web_Search_AVHIRAL_V5.1.py
+Ou sur windows exectuter : Advanced_Web_Search_AVHIRAL_V5.1.bat
