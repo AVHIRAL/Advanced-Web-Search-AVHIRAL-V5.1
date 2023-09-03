@@ -32,3 +32,7 @@ tor_browser_path = r'C:\Users\name\Desktop\Tor Browser\Browser\firefox.exe '  # 
 
 Exectuter : Advanced_Web_Search_AVHIRAL_V5.2.bat
 
+UPDATE 03/09/2023 :
+
+VERSION POUR LINUX : Advanced_Web_Search_AVHIRAL_V5.1_Verion_Linux.py
+python3 Advanced_Web_Search_AVHIRAL_V5.1_Verion_Linux.py
